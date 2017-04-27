@@ -1,0 +1,12 @@
+Primera línea de paschal
+venga equipoA
+sfghj
+
+<<<<<<< HEAD
+Hola Paschalll
+=======
+
+[Eres creepy creepy]
+>>>>>>> Commit creepy
+
+MALDITO PASCHAL
